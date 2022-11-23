@@ -13,3 +13,22 @@
   height: 200px;
   background-color: orange;
 }
+
+.box3 {
+  width: 200px;
+  height: 200px;
+  background-color: lightgreen;
+}
+
+.box4 {
+  width: 200px;
+  height: 200px;
+  background-color: skyblue;
+}
+
+.box5 {
+  width: 200px;
+  height: 200px;
+  background-color: purple;
+  transition: all 1s ease;
+}
